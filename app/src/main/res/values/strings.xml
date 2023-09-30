@@ -2,4 +2,6 @@
     <string name="app_name">Welcome</string>
     <string name="hello_world">Hello World!!!!</string>
 
+    <string name="Name">Write your Name</string>
+    <string name="SurName">Write your Surname</string>
 </resources>
